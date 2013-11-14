@@ -2,7 +2,7 @@
 $(call inherit-product, vendor/cm/config/gsm.mk)
 
 # Release name
-PRODUCT_RELEASE_NAME := GT-I9105P
+PRODUCT_RELEASE_NAME := s2vep
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 800
